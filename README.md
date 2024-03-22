@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-my name is **Dheo putranta Pandia**.
+my name is **Dheo putranta Pandia**.With expertise in Python, particularly in the realms of data science and machine learning, I bring 6 months of internship experience in machine learning.
+Despite lacking formal work experience, my strong determination and enthusiasm for learning serve as valuable assets. I am dedicated to delivering results with a focus on efficiency, quality, and client satisfaction as my top priorities.
+My specific focus lies in developing relevant data science and machine learning solutions. I am prepared to take on freelance project responsibilities and look forward to contributing to the success of each project.
+
+Feel free to reach out for potential collaborations.*
 <br>
 I am a student of Information Systems Study Program at Prima University of Indonesia.
 <br>
