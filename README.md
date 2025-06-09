@@ -11,8 +11,8 @@
 ## About Me
 
 **Information Systems Student** at Prima University of Indonesia  
-**Current Role:** DevOps Engineer focused on ML engineer and cloud operations   
-**Background:** 6+ months experience in Machine Learning and Data Science  
+**Current Role:** Junior DevOps Engineer at Universitas Prima Indonesia  
+**Background:** 12+ months experience in Machine Learning and Data Science  
 **Cloud Experience:** Hands-on experience with GCP, AWS, and currently operating on Linode  
 **Focus:** Building production-ready infrastructure for scalable applications  
 
@@ -153,8 +153,8 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheepssupreme)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheepssupreme@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dheo-putranta-pandia-052857270)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheepss321@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dheepssupreme.dev)
 
 </div>
